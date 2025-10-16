@@ -1,0 +1,9 @@
+
+Hello Marius,
+
+On behalf of Team Pluto (Jinshuo Zhang, Karla Paola González Iglesias, Laurens van der Lely, Cedric Kopp) we propose to use the World Bank GHG emissions series as our primary quantitative dataset. We will complement it with public climate‑finance datasets (e.g. Climate Policy Initiative and OECD climate finance records) to link government and multilateral spending to emissions outcomes.
+
+We chose these sources because they provide consistent, country‑level time series for emissions and for climate‑related finance, which makes longitudinal (country × year) analysis possible. Our plan is to merge spending and emissions by country and year, clean and harmonize the series, then analyze correlations and trends (visuals, summaries) and run simple panel analyses/case studies to investigate whether higher climate spending is associated with lower emissions (and under which conditions).
+
+Best regards,
+Team Pluto (Jinshuo, Karla, Laurens, Cedric)
